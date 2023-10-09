@@ -1,0 +1,61 @@
+.song_playlist{
+    display: inline-block;
+    padding: 30px;
+    height: 80px;
+    width: 60px;
+    margin-left: 250px;
+    color:white
+}
+ *{
+    
+    box-sizing: border-box;
+} 
+
+body{
+    background-color: rgba(0, 0, 0, 0.897);
+    
+}
+
+
+.navbar{
+    position:fixed;
+    left:0;
+    bottom:0;
+    top:0;
+    width:230px;
+    background-color: black;
+    
+
+}
+
+.navbar img{
+    width: 20px;
+
+}
+.items{
+  margin: 20px;
+  text-align: left;
+  
+ 
+}
+a{
+color: white;
+text-decoration: none;
+}
+ 
+.play{
+    display: inline-block;
+    padding: 30px;
+    height: 80px;
+    width: 60px;
+    text-align: center;
+    margin-left: 250px;
+    color:white
+    
+}
+h1{
+    margin-left: 250px;
+    color:white
+
+}
+
